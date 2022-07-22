@@ -1,1 +1,4 @@
-# 动手玩 AI 课件
+# Dive to Paddle Slides
+Hubei University of Education
+
+Artificial Intelligence Special Interest Group
