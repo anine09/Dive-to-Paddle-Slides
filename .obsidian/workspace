@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cf248dabd83be5d2",
+        "id": "297d867977f6da4a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "5a4186c41ec7572b",
+        "id": "5302a8fd8d9b16bf",
         "type": "leaf",
         "state": {
           "type": "reveal-preview-view",
@@ -137,15 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf248dabd83be5d2",
+  "active": "297d867977f6da4a",
   "lastOpenFiles": [
-    "活动策划.md",
+    "celine-sayuri-tagami-2s6ORaJY6gI-unsplash (小).jpg",
+    "celine-sayuri-tagami-2s6ORaJY6gI-unsplash.jpg",
+    "大纲/PaddleX.md",
     "大纲/数据集处理.md",
+    "celine-sayuri-tagami-2s6ORaJY6gI-unsplash.jpg.md",
+    "活动策划.md",
     "slides.md",
     "README.md",
     "成员名单.md",
-    "大纲/训练.md",
-    "README-zh.md",
-    "大纲/PaddleX.md"
+    "大纲/训练.md"
   ]
 }

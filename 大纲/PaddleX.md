@@ -2,9 +2,10 @@
 
 ## PaddleX GUI 简洁教程
 
-蒋良
 
-Epsilon_Luoo@outlook.com
+骆秀韬
+
+epsilon_luoo@outlook.com
 
 湖北第二师范学院
 
@@ -20,12 +21,12 @@ Epsilon_Luoo@outlook.com
 
 
 ---
- ![[Pasted image 20220723035824.png]]
+ ![[../src/Pasted image 20220723035824.png]]
 ---
 # 图像分类
 ---
 # 回归与分类
-![[Pasted image 20220723040701.png]]
+![[../src/Pasted image 20220723040701.png]]
 
 ---
 ## 分类是一种特殊的回归
@@ -46,4 +47,18 @@ Epsilon_Luoo@outlook.com
 
 ---
 # 二分类问题
-### 是 或者 不是
+- Positive 
+- Negative
+
+---
+**Is it a Dog?**
+![[../src/celine-sayuri-tagami-2s6ORaJY6gI-unsplash (小) 1.jpg]]
+
+---
+$$
+f(x)=
+\begin{cases}
+positive,&if\,\,x\geq50,\\
+negative,&if\,\,x<50
+\end{cases}
+$$
